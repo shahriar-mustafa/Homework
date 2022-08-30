@@ -17,10 +17,11 @@ public class AboutMe {
      
 		AboutMe aboutMe = new AboutMe(); // Instantiated 
 				System.out.println("My name is " + aboutMe.name + "\nMy address is,\n" + 
-		aboutMe.streetAddress + ", " + aboutMe.state + " " + aboutMe.zipCode);
+		aboutMe.streetAddress + ", " + aboutMe.state + " " + aboutMe.zipCode); // String concatenation  
 				System.out.println("I am a student =  " + aboutMe.student );
 				System.out.print("My age is = ");
 				System.out.print(aboutMe.age= 30);
+				System.out.print(aboutMe.myHeight);
 	
 
 	}
