@@ -18,9 +18,7 @@ public class Voter {
 		} else {
 			System.out.println("Please enter a valid age!");
 		}
-
 		scanner.close();
-
 	}
 
 }
